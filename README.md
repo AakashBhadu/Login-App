@@ -10,5 +10,7 @@ Required packages:
 - Microsoft.EntityFrameworkCore.Tools 7.0.0
 
 How to run using cmdline:
-- run command "dotnet restore" to download required packages.
-- run command "dotnet run" to run the application.
+-```bash
+  dotnet restore
+  dotnet run
+ ```
