@@ -10,7 +10,7 @@ Required packages:
 - Microsoft.EntityFrameworkCore.Tools 7.0.0
 
 How to run using cmdline:
--```bash
+```bash
   dotnet restore
   dotnet run
  ```
